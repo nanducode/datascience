@@ -1,8 +1,4 @@
 """ Writing my first randomforest code.
-Author : AstroDave
-Date : 23rd September 2012
-Revised: 15 April 2014
-please see packages.python.org/milk/randomforests.html for more
 
 """ 
 import pandas as pd
